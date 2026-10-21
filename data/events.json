@@ -11625,54 +11625,6 @@
   ]
  },
  {
-  "id": "890eef5a-7025-624e-8720-310b46141379",
-  "data": null,
-  "fonte_data": "sem data",
-  "evento": "MÚSICAS RETIRO DA FAMÍLIA 2018",
-  "tipo": "Retiro/Congresso",
-  "fonte_tipo": "inferido pelo nome",
-  "secoes": [
-   "Músicas 1",
-   "Avisos",
-   "Momento de Oração",
-   "Músicas 2"
-  ],
-  "musicas": [
-   "Grato Sou",
-   "Santo, Santo, Santo",
-   "Eu Vejo a Glória",
-   "Tão Profundo (Furious)",
-   "Pra Sempre",
-   "Lugar Secreto",
-   "Teu Santo Nome",
-   "Essência da Adoração",
-   "Tua Graça Me Basta",
-   "Teu Santo Nome",
-   "Eu Vejo a Glória",
-   "Tão Profundo (Furious)",
-   "Quando a música esmorece e o resto desaparece",
-   "Videira",
-   "Oh, Quão Lindo Esse Nome É",
-   "Maravilhoso Amor",
-   "Nada É Impossível",
-   "Em Espirito e Em Verdade",
-   "Eu Vejo a Glória",
-   "Santo",
-   "Emendas (PAI NOSSO,LINDO ÉS,SANTO,TRANSFIGURAÇÂO)",
-   "Poderoso Deus",
-   "Ao Único + Espirito enche minha vida + Senhor Formoso és",
-   "Cantai",
-   "Santo, Santo, Santo",
-   "Os Que Esperam",
-   "Maranata",
-   "Que Se Abram Os Céus",
-   "Te Agradeço",
-   "Eu Vejo a Glória",
-   "Eu Viverei Pra Ti",
-   "Em Teus Braços + deserto"
-  ]
- },
- {
   "id": "8bed1620-05dd-4de0-bb65-cb461fce86d2",
   "data": null,
   "fonte_data": "sem data",
@@ -11982,29 +11934,6 @@
    "Em Teus Braços + deserto",
    "Quando Ele Vem",
    "Me Leva Onde Eu Possa Ouvir"
-  ]
- },
- {
-  "id": "f5efdf1f-4e13-46cd-a4a3-50ca61c99de8",
-  "data": null,
-  "fonte_data": "data inválida no nome",
-  "evento": "CULTO 06/09/2001",
-  "tipo": "Outro",
-  "fonte_tipo": "inferido",
-  "secoes": [
-   "ABERTURA",
-   "LOUVOR",
-   "AVISOS",
-   "MOMENTO DE ORAÇÃO",
-   "DIZMOS E OFERTAS",
-   "FINAL"
-  ],
-  "musicas": [
-   "Espirito enche a minha vida",
-   "Ainda Que A Figueira",
-   "Quebrantado",
-   "Tu És Soberano",
-   "Em Espirito e Em Verdade"
   ]
  },
  {

@@ -210,7 +210,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 41,
+  "total_usos": 40,
   "primeiro_uso": "2019-01-27",
   "ultimo_uso": "2026-05-31",
   "usos_ultimos_12m": 2,
@@ -229,7 +229,7 @@
    "Culto/Retiro de Jovens": 5,
    "Outro": 5,
    "Culto de Adolescentes": 2,
-   "Retiro/Congresso": 2
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -292,7 +292,7 @@
   "estilo": "louvor",
   "confianca": "média",
   "tom": "",
-  "total_usos": 44,
+  "total_usos": 40,
   "primeiro_uso": "2019-01-13",
   "ultimo_uso": "2026-06-07",
   "usos_ultimos_12m": 3,
@@ -308,7 +308,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 24,
-   "Retiro/Congresso": 13,
+   "Retiro/Congresso": 9,
    "Culto de Mulheres": 3,
    "Outro": 3,
    "Culto de Quarta": 1
@@ -460,7 +460,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 30,
+  "total_usos": 29,
   "primeiro_uso": "2019-03-31",
   "ultimo_uso": "2026-10-11",
   "usos_ultimos_12m": 1,
@@ -475,7 +475,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 22,
-   "Retiro/Congresso": 4,
+   "Retiro/Congresso": 3,
    "Culto/Retiro de Jovens": 2,
    "Outro": 2
   },
@@ -680,7 +680,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 33,
+  "total_usos": 32,
   "primeiro_uso": "2019-01-13",
   "ultimo_uso": "2026-08-30",
   "usos_ultimos_12m": 6,
@@ -696,7 +696,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 23,
-   "Retiro/Congresso": 8,
+   "Retiro/Congresso": 7,
    "Outro": 2
   },
   "lyrics_url": "",
@@ -754,7 +754,7 @@
   "estilo": "louvor",
   "confianca": "baixa",
   "tom": "",
-  "total_usos": 36,
+  "total_usos": 35,
   "primeiro_uso": "2019-03-10",
   "ultimo_uso": "2026-05-03",
   "usos_ultimos_12m": 2,
@@ -768,7 +768,7 @@
    "2026": 2
   },
   "tipos_evento": {
-   "Retiro/Congresso": 15,
+   "Retiro/Congresso": 14,
    "Culto de Domingo": 13,
    "Outro": 4,
    "Culto/Retiro de Jovens": 3,
@@ -959,7 +959,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 32,
+  "total_usos": 31,
   "primeiro_uso": "2019-06-16",
   "ultimo_uso": "2026-10-04",
   "usos_ultimos_12m": 3,
@@ -975,7 +975,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 26,
-   "Retiro/Congresso": 3,
+   "Retiro/Congresso": 2,
    "Culto de Adolescentes": 1,
    "Especial": 1,
    "Outro": 1
@@ -1113,7 +1113,7 @@
   "estilo": "louvor",
   "confianca": "média",
   "tom": "",
-  "total_usos": 27,
+  "total_usos": 26,
   "primeiro_uso": "2019-05-04",
   "ultimo_uso": "2026-07-19",
   "usos_ultimos_12m": 2,
@@ -1131,8 +1131,7 @@
    "Culto de Domingo": 17,
    "Culto/Retiro de Jovens": 5,
    "Outro": 3,
-   "Especial": 1,
-   "Retiro/Congresso": 1
+   "Especial": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -1466,7 +1465,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 23,
+  "total_usos": 21,
   "primeiro_uso": "2019-01-27",
   "ultimo_uso": "2025-11-02",
   "usos_ultimos_12m": 1,
@@ -1480,7 +1479,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 12,
-   "Retiro/Congresso": 7,
+   "Retiro/Congresso": 5,
    "Culto/Retiro de Jovens": 2,
    "Outro": 2
   },
@@ -1677,7 +1676,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 25,
+  "total_usos": 24,
   "primeiro_uso": "2019-02-17",
   "ultimo_uso": "2025-11-23",
   "usos_ultimos_12m": 1,
@@ -1692,7 +1691,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 19,
-   "Retiro/Congresso": 3,
+   "Retiro/Congresso": 2,
    "Culto de Adolescentes": 1,
    "Culto/Retiro de Jovens": 1,
    "Outro": 1
@@ -1884,7 +1883,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 17,
+  "total_usos": 16,
   "primeiro_uso": "2019-01-27",
   "ultimo_uso": "2023-10-15",
   "usos_ultimos_12m": 0,
@@ -1898,8 +1897,8 @@
    "Culto de Domingo": 8,
    "Culto/Retiro de Jovens": 4,
    "Outro": 2,
-   "Retiro/Congresso": 2,
-   "Culto de Mulheres": 1
+   "Culto de Mulheres": 1,
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -2058,7 +2057,7 @@
   "estilo": "louvor",
   "confianca": "média",
   "tom": "",
-  "total_usos": 23,
+  "total_usos": 21,
   "primeiro_uso": "2019-02-10",
   "ultimo_uso": "2026-03-15",
   "usos_ultimos_12m": 2,
@@ -2074,10 +2073,10 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 17,
-   "Outro": 2,
-   "Retiro/Congresso": 2,
    "Culto de Quarta": 1,
-   "Culto/Retiro de Jovens": 1
+   "Culto/Retiro de Jovens": 1,
+   "Outro": 1,
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -2194,7 +2193,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 22,
+  "total_usos": 21,
   "primeiro_uso": "2019-04-21",
   "ultimo_uso": "2026-08-14",
   "usos_ultimos_12m": 5,
@@ -2210,7 +2209,7 @@
   "tipos_evento": {
    "Culto de Domingo": 14,
    "Retiro/Congresso": 6,
-   "Outro": 2
+   "Outro": 1
   },
   "lyrics_url": "https://www.letras.mus.br/vineyard/1134190/",
   "lyrics_source": "licenciado (Letras.mus.br)",
@@ -2395,7 +2394,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 24,
+  "total_usos": 23,
   "primeiro_uso": "2019-02-24",
   "ultimo_uso": "2026-08-14",
   "usos_ultimos_12m": 3,
@@ -2411,9 +2410,9 @@
   "tipos_evento": {
    "Culto de Domingo": 15,
    "Retiro/Congresso": 5,
-   "Outro": 2,
    "Culto de Quarta": 1,
-   "Culto/Retiro de Jovens": 1
+   "Culto/Retiro de Jovens": 1,
+   "Outro": 1
   },
   "lyrics_url": "https://www.letras.mus.br/fernandinho/1496848/",
   "lyrics_source": "licenciado (Letras.mus.br)",
@@ -2717,7 +2716,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 20,
+  "total_usos": 19,
   "primeiro_uso": "2019-06-01",
   "ultimo_uso": "2026-09-13",
   "usos_ultimos_12m": 3,
@@ -2732,7 +2731,7 @@
   "tipos_evento": {
    "Culto de Domingo": 11,
    "Outro": 5,
-   "Retiro/Congresso": 3,
+   "Retiro/Congresso": 2,
    "Especial": 1
   },
   "lyrics_url": "",
@@ -2840,7 +2839,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 19,
+  "total_usos": 18,
   "primeiro_uso": "2019-02-17",
   "ultimo_uso": "2024-07-14",
   "usos_ultimos_12m": 0,
@@ -2854,7 +2853,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 14,
-   "Retiro/Congresso": 4,
+   "Retiro/Congresso": 3,
    "Outro": 1
   },
   "lyrics_url": "",
@@ -2899,7 +2898,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 18,
+  "total_usos": 16,
   "primeiro_uso": "2019-02-17",
   "ultimo_uso": "2025-07-06",
   "usos_ultimos_12m": 0,
@@ -2914,7 +2913,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 12,
-   "Retiro/Congresso": 4,
+   "Retiro/Congresso": 2,
    "Especial": 1,
    "Outro": 1
   },
@@ -3279,7 +3278,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 17,
+  "total_usos": 16,
   "primeiro_uso": "2019-02-24",
   "ultimo_uso": "2026-08-23",
   "usos_ultimos_12m": 3,
@@ -3293,8 +3292,8 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 10,
-   "Retiro/Congresso": 3,
    "Outro": 2,
+   "Retiro/Congresso": 2,
    "Culto de Mulheres": 1,
    "Culto/Retiro de Jovens": 1
   },
@@ -3571,7 +3570,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 12,
+  "total_usos": 11,
   "primeiro_uso": "2019-04-14",
   "ultimo_uso": "2025-12-28",
   "usos_ultimos_12m": 1,
@@ -3582,7 +3581,7 @@
    "2025": 1
   },
   "tipos_evento": {
-   "Retiro/Congresso": 6,
+   "Retiro/Congresso": 5,
    "Culto de Domingo": 4,
    "Outro": 2
   },
@@ -3675,7 +3674,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 14,
+  "total_usos": 13,
   "primeiro_uso": "2019-03-17",
   "ultimo_uso": "2026-04-26",
   "usos_ultimos_12m": 2,
@@ -3690,7 +3689,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 9,
-   "Retiro/Congresso": 3,
+   "Retiro/Congresso": 2,
    "Culto de Mulheres": 1,
    "Outro": 1
   },
@@ -3947,7 +3946,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 11,
+  "total_usos": 10,
   "primeiro_uso": "2019-09-29",
   "ultimo_uso": "2025-11-02",
   "usos_ultimos_12m": 1,
@@ -3961,7 +3960,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 9,
-   "Retiro/Congresso": 2
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -3999,7 +3998,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 14,
+  "total_usos": 13,
   "primeiro_uso": "2019-02-17",
   "ultimo_uso": "2026-10-04",
   "usos_ultimos_12m": 3,
@@ -4013,9 +4012,9 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 10,
-   "Retiro/Congresso": 2,
    "Culto de Adolescentes": 1,
-   "Culto/Retiro de Jovens": 1
+   "Culto/Retiro de Jovens": 1,
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -4469,7 +4468,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 13,
+  "total_usos": 12,
   "primeiro_uso": "2019-03-10",
   "ultimo_uso": "2026-03-01",
   "usos_ultimos_12m": 1,
@@ -4483,7 +4482,7 @@
   "tipos_evento": {
    "Culto de Domingo": 7,
    "Outro": 4,
-   "Retiro/Congresso": 2
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "https://www.vagalume.com.br/kleber-lucas/te-agradeco.html",
   "lyrics_source": "licenciado (Vagalume)",
@@ -6119,7 +6118,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 7,
+  "total_usos": 5,
   "primeiro_uso": "2019-12-01",
   "ultimo_uso": "2022-06-19",
   "usos_ultimos_12m": 0,
@@ -6130,7 +6129,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 4,
-   "Retiro/Congresso": 3
+   "Retiro/Congresso": 1
   },
   "lyrics_url": "https://www.letras.mus.br/gabriela-rocha/teu-santo-nome/",
   "lyrics_source": "licenciado (Letras.mus.br)",
@@ -6218,7 +6217,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 11,
+  "total_usos": 10,
   "primeiro_uso": "2019-01-13",
   "ultimo_uso": "2022-12-29",
   "usos_ultimos_12m": 0,
@@ -6230,7 +6229,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 7,
-   "Outro": 3,
+   "Outro": 2,
    "Retiro/Congresso": 1
   },
   "lyrics_url": "https://www.vagalume.com.br/novo-som/tu-es-soberano.html",
@@ -6413,7 +6412,7 @@
   "estilo": "adoração",
   "confianca": "alta",
   "tom": "",
-  "total_usos": 9,
+  "total_usos": 8,
   "primeiro_uso": "2019-02-03",
   "ultimo_uso": "2020-02-21",
   "usos_ultimos_12m": 0,
@@ -6422,7 +6421,7 @@
    "2020": 1
   },
   "tipos_evento": {
-   "Retiro/Congresso": 5,
+   "Retiro/Congresso": 4,
    "Culto de Domingo": 2,
    "Culto/Retiro de Jovens": 1,
    "Outro": 1
@@ -8243,7 +8242,7 @@
   "estilo": "adoração",
   "confianca": "média",
   "tom": "",
-  "total_usos": 7,
+  "total_usos": 6,
   "primeiro_uso": "2020-05-24",
   "ultimo_uso": "2025-10-19",
   "usos_ultimos_12m": 0,
@@ -8256,8 +8255,7 @@
   },
   "tipos_evento": {
    "Culto de Domingo": 5,
-   "Culto de Adolescentes": 1,
-   "Outro": 1
+   "Culto de Adolescentes": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -11939,7 +11937,7 @@
   "estilo": "louvor",
   "confianca": "média",
   "tom": "",
-  "total_usos": 2,
+  "total_usos": 1,
   "primeiro_uso": "2025-02-09",
   "ultimo_uso": "2025-02-09",
   "usos_ultimos_12m": 0,
@@ -11947,8 +11945,7 @@
    "2025": 1
   },
   "tipos_evento": {
-   "Culto de Domingo": 1,
-   "Retiro/Congresso": 1
+   "Culto de Domingo": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -13555,14 +13552,13 @@
   "estilo": "adoração",
   "confianca": "baixa",
   "tom": "",
-  "total_usos": 2,
+  "total_usos": 1,
   "primeiro_uso": "",
   "ultimo_uso": "",
   "usos_ultimos_12m": 0,
   "usos_por_ano": {},
   "tipos_evento": {
-   "Outro": 1,
-   "Retiro/Congresso": 1
+   "Outro": 1
   },
   "lyrics_url": "",
   "lyrics_source": "",
@@ -14936,40 +14932,6 @@
    "2025-10-26"
   ],
   "id": "tu-es-santo"
- },
- {
-  "musica": "Tua Graça Me Basta",
-  "titulo_canonico": "Tua Graça Me Basta",
-  "artista_ministerio": "Trazendo a Arca",
-  "fonte_artista": "Gemini",
-  "artistas_no_letras": "Trazendo a Arca, Davi Sacer, Ministério Apascentar de Louvor (Toque No Altar), Rachel Novaes",
-  "artista_gemini": "Trazendo a Arca",
-  "artista_divergente": "não",
-  "versao_estrangeira": "não",
-  "titulo_original": "",
-  "artista_original": "",
-  "compositores": "Luiz Arcanjo / Ronald Fonseca",
-  "ano_lancamento": 2007,
-  "decada": "2000s",
-  "estilo": "adoração",
-  "confianca": "alta",
-  "tom": "",
-  "total_usos": 1,
-  "primeiro_uso": "",
-  "ultimo_uso": "",
-  "usos_ultimos_12m": 0,
-  "usos_por_ano": {},
-  "tipos_evento": {
-   "Retiro/Congresso": 1
-  },
-  "lyrics_url": "",
-  "lyrics_source": "",
-  "letra_confirmada_em": "",
-  "letras_sugestao_nao_verificada": "https://www.letras.mus.br/trazendo-arca/1001900/",
-  "link_letra": "https://www.google.com/search?q=%22Tua%20Gra%C3%A7a%20Me%20Basta%22%20Trazendo%20a%20Arca%20letra",
-  "link_letra_verificado": "não",
-  "datas": [],
-  "id": "tua-graca-me-basta"
  },
  {
   "musica": "Tua Igreja Canta",
@@ -18042,40 +18004,6 @@
    "2024-09-01"
   ],
   "id": "primeiro-amor-quero-voltar"
- },
- {
-  "musica": "Quando a música esmorece e o resto desaparece",
-  "titulo_canonico": "A História do Coração (The Heart of Worship)",
-  "artista_ministerio": "Diante do Trono",
-  "fonte_artista": "Gemini",
-  "artistas_no_letras": "",
-  "artista_gemini": "Diante do Trono",
-  "artista_divergente": "não",
-  "versao_estrangeira": "sim",
-  "titulo_original": "The Heart of Worship",
-  "artista_original": "Matt Redman",
-  "compositores": "Matt Redman",
-  "ano_lancamento": 2001,
-  "decada": "2000s",
-  "estilo": "adoração",
-  "confianca": "alta",
-  "tom": "",
-  "total_usos": 1,
-  "primeiro_uso": "",
-  "ultimo_uso": "",
-  "usos_ultimos_12m": 0,
-  "usos_por_ano": {},
-  "tipos_evento": {
-   "Retiro/Congresso": 1
-  },
-  "lyrics_url": "",
-  "lyrics_source": "",
-  "letra_confirmada_em": "",
-  "letras_sugestao_nao_verificada": "",
-  "link_letra": "https://www.google.com/search?q=%22A%20Hist%C3%B3ria%20do%20Cora%C3%A7%C3%A3o%22%20Diante%20do%20Trono%20letra",
-  "link_letra_verificado": "não",
-  "datas": [],
-  "id": "quando-a-musica-esmorece-e-o-resto-desaparece"
  },
  {
   "musica": "Quanto Amor",
