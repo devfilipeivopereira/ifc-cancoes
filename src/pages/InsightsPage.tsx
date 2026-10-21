@@ -14,7 +14,8 @@ export function InsightsPage() {
   const novas = useMemo(() => newSongsByYear(songs), []);
   const weekdays = useMemo(() => weekdayPoints(performances), []);
   const sunday = weekdays[0]?.eventos ?? 0;
-  const datedEvents = events.filter((event) => event.data).length;
+  const datedIso = events.map((event) => event.data).filter(Boolean).sort();
+  const datedEvents = datedIso.length;
   const peakNew = [...novas].sort((a, b) => b.novas - a.novas)[0];
   const latestNew = novas[novas.length - 1];
   const forgotten = useMemo(
@@ -55,7 +56,7 @@ export function InsightsPage() {
         <p className="text-sm font-bold uppercase tracking-widest text-primary">Leitura do repertório</p>
         <h1 className="mt-1 text-3xl font-extrabold tracking-tight md:text-4xl">O que os cultos contam</h1>
         <p className="mt-2 text-muted">
-          Um resumo em linguagem simples do histórico de {formatDate("2017-12-31")} a {formatDate("2026-10-18")}. Os metadados de
+          Um resumo em linguagem simples do histórico de {formatDate(datedIso[0] ?? "")} a {formatDate(datedIso[datedIso.length - 1] ?? "")}. Os metadados de
           artista, ano e compositor foram gerados por IA e podem errar.
         </p>
       </header>

@@ -1,7 +1,7 @@
 import { lazy, Suspense, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { CountUp } from "../components/CountUp";
-import { formatNumber, formatPercent } from "../lib/format";
+import { ANOS, formatNumber, formatPercent } from "../lib/format";
 import { stats } from "../lib/stats";
 
 const HomeCharts = lazy(() => import("../components/HomeCharts").then((module) => ({ default: module.HomeCharts })));
@@ -28,7 +28,7 @@ export function HomePage() {
           <h1 className="mt-3 max-w-3xl text-4xl font-extrabold tracking-tight md:text-6xl">Repertório de Louvor</h1>
           <p className="mt-3 text-xl font-semibold text-white/95 md:text-2xl">Uma Família para Pertencer</p>
           <p className="mt-4 max-w-2xl text-base text-white/85 md:text-lg">
-            {formatNumber(stats.musicas_distintas)} músicas cantadas em {formatNumber(stats.eventos)} cultos, de 2017 a 2026. Um
+            {formatNumber(stats.musicas_distintas)} músicas cantadas em {formatNumber(stats.eventos)} cultos, de {ANOS[0]} a {ANOS[ANOS.length - 1]}. Um
             retrato do louvor da igreja — sem letras, só o repertório.
           </p>
           <div className="mt-8 flex w-full max-w-sm flex-col justify-center gap-3 sm:max-w-none sm:flex-row">

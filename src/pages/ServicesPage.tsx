@@ -74,7 +74,7 @@ export function ServicesPage() {
         <p className="text-sm font-bold uppercase tracking-widest text-primary">Histórico</p>
         <h1 className="mt-1 text-3xl font-extrabold tracking-tight md:text-4xl">Cultos</h1>
         <p className="mt-2 max-w-3xl text-muted">
-          {formatNumber(events.length)} encontros entre 2017 e 2026. Abra um culto para ver a lista de músicas.
+          {formatNumber(events.length)} encontros entre {ANOS[0]} e {ANOS[ANOS.length - 1]}. Abra um culto para ver a lista de músicas.
         </p>
       </header>
 
@@ -271,12 +271,14 @@ function Calendar({
     const date = new Date(Date.UTC(year, month - 1 + delta, 1));
     let nextYear = date.getUTCFullYear();
     let nextMonth = date.getUTCMonth() + 1;
-    if (nextYear < 2017) {
-      nextYear = 2017;
+    const firstYear = ANOS[0];
+    const lastYear = ANOS[ANOS.length - 1];
+    if (nextYear < firstYear) {
+      nextYear = firstYear;
       nextMonth = 1;
     }
-    if (nextYear > 2026) {
-      nextYear = 2026;
+    if (nextYear > lastYear) {
+      nextYear = lastYear;
       nextMonth = 12;
     }
     onYear(nextYear);

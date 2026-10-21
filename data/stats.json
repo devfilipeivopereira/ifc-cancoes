@@ -1,138 +1,98 @@
 {
  "gerado_em": "2026-10-21",
- "eventos": 658,
- "eventos_com_data": 605,
- "execucoes": 3474,
- "musicas_distintas": 471,
+ "eventos": 588,
+ "eventos_com_data": 535,
+ "execucoes": 2991,
+ "musicas_distintas": 434,
  "por_ano": {
-  "2017": {
-   "eventos": 1,
-   "execucoes": 5,
-   "distintas": 5,
-   "novas": 5
-  },
-  "2018": {
-   "eventos": 69,
-   "execucoes": 478,
-   "distintas": 184,
-   "novas": 179
-  },
   "2019": {
    "eventos": 73,
    "execucoes": 450,
    "distintas": 191,
-   "novas": 74
+   "novas": 191
   },
   "2020": {
    "eventos": 43,
    "execucoes": 218,
    "distintas": 114,
-   "novas": 22
+   "novas": 30
   },
   "2021": {
    "eventos": 49,
    "execucoes": 192,
    "distintas": 109,
-   "novas": 27
+   "novas": 29
   },
   "2022": {
    "eventos": 76,
    "execucoes": 375,
    "distintas": 136,
-   "novas": 26
+   "novas": 31
   },
   "2023": {
    "eventos": 98,
    "execucoes": 404,
    "distintas": 171,
-   "novas": 39
+   "novas": 43
   },
   "2024": {
    "eventos": 81,
    "execucoes": 426,
    "distintas": 185,
-   "novas": 51
+   "novas": 53
   },
   "2025": {
    "eventos": 64,
    "execucoes": 328,
    "distintas": 151,
-   "novas": 19
+   "novas": 22
   },
   "2026": {
    "eventos": 51,
    "execucoes": 281,
    "distintas": 145,
-   "novas": 16
+   "novas": 18
   }
  },
  "musicas_por_evento": {
-  "media": 5.63,
+  "media": 5.47,
   "mediana": 5
  },
- "concentracao_top20": 0.234,
- "concentracao_top50": 0.452,
- "eventos_com_top20": 0.716,
- "usadas_uma_vez": 144,
+ "concentracao_top20": 0.239,
+ "concentracao_top50": 0.453,
+ "eventos_com_top20": 0.715,
+ "usadas_uma_vez": 133,
  "top20": [
   {
    "musica": "Eu Me Rendo",
-   "usos": 66
+   "usos": 62
   },
   {
    "musica": "Eu Te Agradeço",
-   "usos": 57
-  },
-  {
-   "musica": "Maravilhoso Amor",
-   "usos": 55
+   "usos": 50
   },
   {
    "musica": "Eu Vejo a Glória",
-   "usos": 51
+   "usos": 44
   },
   {
-   "musica": "Grande é o Senhor (Great is the Lord)",
-   "usos": 43
-  },
-  {
-   "musica": "Lugar Secreto",
-   "usos": 43
-  },
-  {
-   "musica": "Santo Espírito (Holy Spirit)",
-   "usos": 42
+   "musica": "Maravilhoso Amor",
+   "usos": 41
   },
   {
    "musica": "Vitorioso És",
    "usos": 41
   },
   {
-   "musica": "Grato Sou",
-   "usos": 40
+   "musica": "Grande é o Senhor (Great is the Lord)",
+   "usos": 38
   },
   {
    "musica": "Videira",
-   "usos": 39
-  },
-  {
-   "musica": "Pai Nosso",
    "usos": 36
-  },
-  {
-   "musica": "Porque Ele Vive",
-   "usos": 36
-  },
-  {
-   "musica": "Maranata",
-   "usos": 35
   },
   {
    "musica": "Jesus Em Tua Presença",
-   "usos": 34
-  },
-  {
-   "musica": "Nada É Impossível",
    "usos": 34
   },
   {
@@ -144,16 +104,44 @@
    "usos": 33
   },
   {
-   "musica": "Quando Ele Vem",
+   "musica": "Grato Sou",
+   "usos": 33
+  },
+  {
+   "musica": "Maranata",
    "usos": 32
+  },
+  {
+   "musica": "Altar",
+   "usos": 31
+  },
+  {
+   "musica": "Na Terra Como no Céu",
+   "usos": 31
   },
   {
    "musica": "Tua Alegria",
-   "usos": 32
+   "usos": 31
   },
   {
-   "musica": "Tão Profundo (Furious)",
-   "usos": 32
+   "musica": "Lugar Secreto",
+   "usos": 30
+  },
+  {
+   "musica": "Porque Ele Vive",
+   "usos": 30
+  },
+  {
+   "musica": "Caminho no Deserto",
+   "usos": 29
+  },
+  {
+   "musica": "Santo Espírito (Holy Spirit)",
+   "usos": 28
+  },
+  {
+   "musica": "Nada É Impossível",
+   "usos": 27
   }
  ],
  "ultimos_12m": [
@@ -170,15 +158,7 @@
    "usos": 7
   },
   {
-   "musica": "Eis Que Estou à Porta",
-   "usos": 6
-  },
-  {
-   "musica": "Reina em Mim",
-   "usos": 6
-  },
-  {
-   "musica": "Na Terra Como no Céu",
+   "musica": "Eu Te Agradeço",
    "usos": 6
   },
   {
@@ -186,15 +166,23 @@
    "usos": 6
   },
   {
-   "musica": "Eu Te Agradeço",
-   "usos": 6
-  },
-  {
    "musica": "Grato Sou",
    "usos": 6
   },
   {
-   "musica": "Sou Grato Por Seu Amor",
+   "musica": "Na Terra Como no Céu",
+   "usos": 6
+  },
+  {
+   "musica": "Reina em Mim",
+   "usos": 6
+  },
+  {
+   "musica": "Eis Que Estou à Porta",
+   "usos": 6
+  },
+  {
+   "musica": "Quebrantado",
    "usos": 5
   },
   {
@@ -202,11 +190,23 @@
    "usos": 5
   },
   {
-   "musica": "Quebrantado",
+   "musica": "Sou Grato Por Seu Amor",
    "usos": 5
   },
   {
-   "musica": "Estações",
+   "musica": "Eu Me Rendo",
+   "usos": 4
+  },
+  {
+   "musica": "Grande é o Senhor (Great is the Lord)",
+   "usos": 4
+  },
+  {
+   "musica": "Altar",
+   "usos": 4
+  },
+  {
+   "musica": "Porque Ele Vive",
    "usos": 4
   },
   {
@@ -218,91 +218,64 @@
    "usos": 4
   },
   {
-   "musica": "Eu Me Rendo",
-   "usos": 4
-  },
-  {
-   "musica": "Porque Ele Vive",
-   "usos": 4
-  },
-  {
    "musica": "Meu Alvo",
    "usos": 4
   },
   {
-   "musica": "Altar",
-   "usos": 4
-  },
-  {
-   "musica": "Grande é o Senhor (Great is the Lord)",
+   "musica": "Sublime",
    "usos": 4
   }
  ],
  "esquecidas": [
   {
    "musica": "Tua Alegria",
-   "usos": 32,
+   "usos": 31,
    "ultimo_uso": "2024-08-11"
   },
   {
-   "musica": "Em Teus Braços + deserto",
-   "usos": 29,
-   "ultimo_uso": "2023-10-15"
-  },
-  {
    "musica": "Com Muito Louvor",
-   "usos": 27,
+   "usos": 26,
    "ultimo_uso": "2024-12-08"
   },
   {
    "musica": "Senhor, Te Quero",
-   "usos": 25,
+   "usos": 21,
    "ultimo_uso": "2025-02-02"
   },
   {
    "musica": "Teu Amor Não Falha (Your Love Never Fails)",
-   "usos": 24,
+   "usos": 20,
    "ultimo_uso": "2025-09-28"
   },
   {
    "musica": "Os Que Esperam",
-   "usos": 23,
+   "usos": 19,
    "ultimo_uso": "2024-07-14"
   },
   {
-   "musica": "Santo, Santo, Santo",
-   "usos": 23,
-   "ultimo_uso": "2025-07-06"
-  },
-  {
    "musica": "Quem Dizes Que Eu Sou (Who Am I)",
-   "usos": 22,
+   "usos": 19,
    "ultimo_uso": "2024-12-01"
   },
   {
+   "musica": "Santo, Santo, Santo",
+   "usos": 18,
+   "ultimo_uso": "2025-07-06"
+  },
+  {
+   "musica": "Em Teus Braços + deserto",
+   "usos": 17,
+   "ultimo_uso": "2023-10-15"
+  },
+  {
    "musica": "Perdão e Graça (Sweet Mercies)",
-   "usos": 20,
+   "usos": 17,
    "ultimo_uso": "2023-11-05"
   },
   {
    "musica": "Valor",
-   "usos": 19,
+   "usos": 15,
    "ultimo_uso": "2024-11-03"
-  },
-  {
-   "musica": "De Dentro Pra Fora",
-   "usos": 18,
-   "ultimo_uso": "2019-06-29"
-  },
-  {
-   "musica": "O Caminho",
-   "usos": 18,
-   "ultimo_uso": "2024-02-11"
-  },
-  {
-   "musica": "Você Veio",
-   "usos": 14,
-   "ultimo_uso": "2019-11-23"
   },
   {
    "musica": "Me Atraiu",
@@ -310,24 +283,9 @@
    "ultimo_uso": "2024-05-12"
   },
   {
-   "musica": "Mais Perto Quero Estar",
+   "musica": "O Caminho",
    "usos": 12,
-   "ultimo_uso": "2025-06-01"
-  },
-  {
-   "musica": "Me Rendo A Ti (The Stand)",
-   "usos": 12,
-   "ultimo_uso": "2024-10-13"
-  },
-  {
-   "musica": "Oceanos (Oceans)",
-   "usos": 12,
-   "ultimo_uso": "2024-03-03"
-  },
-  {
-   "musica": "Senhor Formoso És",
-   "usos": 12,
-   "ultimo_uso": "2025-10-19"
+   "ultimo_uso": "2024-02-11"
   },
   {
    "musica": "A benção",
@@ -335,9 +293,9 @@
    "ultimo_uso": "2025-05-11"
   },
   {
-   "musica": "Ele Continua Sendo Bom",
+   "musica": "De Dentro Pra Fora",
    "usos": 11,
-   "ultimo_uso": "2024-11-24"
+   "ultimo_uso": "2019-06-29"
   },
   {
    "musica": "Eterno Deus",
@@ -345,9 +303,14 @@
    "ultimo_uso": "2024-09-22"
   },
   {
-   "musica": "Teu Santo Nome",
+   "musica": "Mais Perto Quero Estar",
    "usos": 11,
-   "ultimo_uso": "2022-06-19"
+   "ultimo_uso": "2025-06-01"
+  },
+  {
+   "musica": "Senhor Formoso És",
+   "usos": 11,
+   "ultimo_uso": "2025-10-19"
   },
   {
    "musica": "Tu És Soberano",
@@ -360,120 +323,85 @@
    "ultimo_uso": "2023-06-23"
   },
   {
-   "musica": "Eu Te Quero",
+   "musica": "Me Rendo A Ti (The Stand)",
    "usos": 10,
-   "ultimo_uso": "2020-11-22"
+   "ultimo_uso": "2024-10-13"
   },
   {
-   "musica": "Eu Viverei Pra Ti",
+   "musica": "Oceanos (Oceans)",
    "usos": 10,
-   "ultimo_uso": "2020-02-21"
-  },
-  {
-   "musica": "Os Que Confiam No Senhor",
-   "usos": 10,
-   "ultimo_uso": "2025-05-25"
+   "ultimo_uso": "2024-03-03"
   },
   {
    "musica": "Quebro Meu Vaso",
    "usos": 10,
    "ultimo_uso": "2023-04-23"
-  },
-  {
-   "musica": "Só Tenho a Ti (All I Have)",
-   "usos": 10,
-   "ultimo_uso": "2023-01-15"
-  },
-  {
-   "musica": "Só Tu És Santo",
-   "usos": 10,
-   "ultimo_uso": "2025-04-18"
-  },
-  {
-   "musica": "Vim Para Adorar-te",
-   "usos": 10,
-   "ultimo_uso": "2024-04-03"
   }
  ],
  "artistas": [
   {
    "artista": "Diante do Trono",
-   "execucoes": 249,
-   "musicas": 34
+   "execucoes": 204,
+   "musicas": 30
   },
   {
    "artista": "Fernandinho",
-   "execucoes": 154,
+   "execucoes": 134,
    "musicas": 20
   },
   {
    "artista": "Nívea Soares",
-   "execucoes": 144,
-   "musicas": 10
+   "execucoes": 123,
+   "musicas": 9
   },
   {
    "artista": "Gabriela Rocha",
-   "execucoes": 130,
+   "execucoes": 105,
    "musicas": 10
   },
   {
    "artista": "Aline Barros",
-   "execucoes": 109,
-   "musicas": 26
+   "execucoes": 95,
+   "musicas": 25
   },
   {
    "artista": "Adhemar de Campos",
-   "execucoes": 95,
+   "execucoes": 85,
    "musicas": 6
-  },
-  {
-   "artista": "Vineyard Brasil",
-   "execucoes": 83,
-   "musicas": 6
-  },
-  {
-   "artista": "Laura Souguellis",
-   "execucoes": 79,
-   "musicas": 4
-  },
-  {
-   "artista": "Kleber Lucas",
-   "execucoes": 77,
-   "musicas": 7
   },
   {
    "artista": "Gabi Sampaio",
-   "execucoes": 76,
+   "execucoes": 75,
    "musicas": 5
   },
   {
-   "artista": "Ministério Mergulhar",
-   "execucoes": 66,
-   "musicas": 1
+   "artista": "Vineyard Brasil",
+   "execucoes": 69,
+   "musicas": 6
   },
   {
-   "artista": "David Quinlan",
+   "artista": "Kleber Lucas",
    "execucoes": 62,
    "musicas": 7
   },
   {
-   "artista": "Vineyard Music",
+   "artista": "Ministério Mergulhar",
    "execucoes": 62,
-   "musicas": 3
-  },
-  {
-   "artista": "desconhecido",
-   "execucoes": 58,
-   "musicas": 22
-  },
-  {
-   "artista": "Preto no Branco",
-   "execucoes": 57,
    "musicas": 1
   },
   {
-   "artista": "Marquinhos Góes",
-   "execucoes": 51,
+   "artista": "Vineyard Music",
+   "execucoes": 53,
+   "musicas": 3
+  },
+  {
+   "artista": "David Quinlan",
+   "execucoes": 50,
+   "musicas": 6
+  },
+  {
+   "artista": "Preto no Branco",
+   "execucoes": 50,
    "musicas": 1
   },
   {
@@ -482,13 +410,8 @@
    "musicas": 9
   },
   {
-   "artista": "Isaias Saad",
-   "execucoes": 47,
-   "musicas": 2
-  },
-  {
-   "artista": "Quatro Por Um",
-   "execucoes": 46,
+   "artista": "Laura Souguellis",
+   "execucoes": 48,
    "musicas": 3
   },
   {
@@ -497,60 +420,80 @@
    "musicas": 3
   },
   {
-   "artista": "Fernanda Brum",
-   "execucoes": 45,
-   "musicas": 5
-  },
-  {
-   "artista": "Hillsong Em Português",
+   "artista": "desconhecido",
    "execucoes": 44,
-   "musicas": 3
+   "musicas": 17
   },
   {
-   "artista": "Harpa Cristã",
-   "execucoes": 43,
+   "artista": "Marquinhos Góes",
+   "execucoes": 44,
+   "musicas": 1
+  },
+  {
+   "artista": "Fernanda Brum",
+   "execucoes": 42,
    "musicas": 5
-  },
-  {
-   "artista": "Vineyard",
-   "execucoes": 43,
-   "musicas": 2
-  },
-  {
-   "artista": "Julia Vitória",
-   "execucoes": 41,
-   "musicas": 2
   },
   {
    "artista": "Cassiane",
-   "execucoes": 41,
+   "execucoes": 40,
    "musicas": 4
-  },
-  {
-   "artista": "O Canto das Igrejas",
-   "execucoes": 41,
-   "musicas": 2
-  },
-  {
-   "artista": "Corinhos Evangélicos",
-   "execucoes": 38,
-   "musicas": 5
-  },
-  {
-   "artista": "MORADA",
-   "execucoes": 38,
-   "musicas": 5
   },
   {
    "artista": "Florianópolis House Of Prayer (fhop music)",
    "execucoes": 38,
    "musicas": 6
+  },
+  {
+   "artista": "Quatro Por Um",
+   "execucoes": 38,
+   "musicas": 3
+  },
+  {
+   "artista": "Corinhos Evangélicos",
+   "execucoes": 36,
+   "musicas": 5
+  },
+  {
+   "artista": "Harpa Cristã",
+   "execucoes": 36,
+   "musicas": 5
+  },
+  {
+   "artista": "Hillsong Em Português",
+   "execucoes": 36,
+   "musicas": 3
+  },
+  {
+   "artista": "Julia Vitória",
+   "execucoes": 34,
+   "musicas": 2
+  },
+  {
+   "artista": "MORADA",
+   "execucoes": 34,
+   "musicas": 5
+  },
+  {
+   "artista": "O Canto das Igrejas",
+   "execucoes": 34,
+   "musicas": 2
+  },
+  {
+   "artista": "Vineyard",
+   "execucoes": 34,
+   "musicas": 2
+  },
+  {
+   "artista": "Isaías Saad",
+   "execucoes": 33,
+   "musicas": 1
   }
  ],
  "versoes_estrangeiras": {
-  "musicas": 172,
-  "pct_musicas": 0.365,
-  "pct_execucoes": 0.498
+  "musicas": 165,
+  "pct_musicas": 0.38,
+  "pct_execucoes": 0.49
  },
  "decadas": {
   "1870s": {
@@ -571,94 +514,86 @@
   },
   "1980s": {
    "musicas": 2,
-   "execucoes": 72
+   "execucoes": 63
   },
   "1990s": {
-   "musicas": 37,
-   "execucoes": 271
+   "musicas": 32,
+   "execucoes": 252
   },
   "2000s": {
-   "musicas": 163,
-   "execucoes": 1186
+   "musicas": 153,
+   "execucoes": 993
   },
   "2010s": {
-   "musicas": 165,
-   "execucoes": 1493
+   "musicas": 157,
+   "execucoes": 1286
   },
   "2020s": {
    "musicas": 13,
    "execucoes": 102
   },
   "desconhecida": {
-   "musicas": 84,
-   "execucoes": 339
+   "musicas": 70,
+   "execucoes": 284
   }
  },
  "por_tipo": {
   "Culto de Domingo": {
-   "eventos": 457,
-   "media_musicas": 5.4,
+   "eventos": 411,
+   "media_musicas": 5.2,
    "top5": [
     {
      "musica": "Eu Me Rendo",
-     "usos": 47
-    },
-    {
-     "musica": "Maravilhoso Amor",
-     "usos": 37
-    },
-    {
-     "musica": "Eu Te Agradeço",
-     "usos": 36
+     "usos": 43
     },
     {
      "musica": "Vitorioso És",
      "usos": 32
     },
     {
-     "musica": "Grande é o Senhor (Great is the Lord)",
+     "musica": "Eu Te Agradeço",
      "usos": 31
+    },
+    {
+     "musica": "Na Terra Como no Céu",
+     "usos": 28
+    },
+    {
+     "musica": "Altar",
+     "usos": 27
     }
    ]
   },
   "Retiro/Congresso": {
-   "eventos": 39,
-   "media_musicas": 10.7,
+   "eventos": 34,
+   "media_musicas": 10.9,
    "top5": [
     {
      "musica": "Videira",
-     "usos": 16
+     "usos": 15
     },
     {
      "musica": "Eu Vejo a Glória",
-     "usos": 15
+     "usos": 13
     },
     {
      "musica": "Eu Te Agradeço",
      "usos": 9
     },
     {
-     "musica": "Grato Sou",
-     "usos": 9
+     "musica": "Ele É Exaltado",
+     "usos": 8
     },
     {
-     "musica": "Tão Profundo (Furious)",
+     "musica": "Eu Me Rendo",
      "usos": 8
     }
    ]
   },
   "Culto/Retiro de Jovens": {
-   "eventos": 39,
-   "media_musicas": 7.1,
+   "eventos": 32,
+   "media_musicas": 6.9,
    "top5": [
-    {
-     "musica": "Foi de Graça",
-     "usos": 8
-    },
-    {
-     "musica": "Você Veio",
-     "usos": 7
-    },
     {
      "musica": "Quero Conhecer Jesus",
      "usos": 6
@@ -668,33 +603,41 @@
      "usos": 6
     },
     {
-     "musica": "Só Tu És Santo",
-     "usos": 6
+     "musica": "Glorioso Dia",
+     "usos": 5
+    },
+    {
+     "musica": "Isaias 9",
+     "usos": 5
+    },
+    {
+     "musica": "Maravilhoso Amor",
+     "usos": 5
     }
    ]
   },
   "Culto de Mulheres": {
-   "eventos": 26,
-   "media_musicas": 3.2,
+   "eventos": 22,
+   "media_musicas": 3.1,
    "top5": [
-    {
-     "musica": "Pai Nosso",
-     "usos": 3
-    },
-    {
-     "musica": "Quando Ele Vem",
-     "usos": 3
-    },
-    {
-     "musica": "Sonda-me Senhor",
-     "usos": 3
-    },
     {
      "musica": "Eu Vejo a Glória",
      "usos": 3
     },
     {
+     "musica": "Pai Nosso",
+     "usos": 3
+    },
+    {
      "musica": "Algo novo",
+     "usos": 2
+    },
+    {
+     "musica": "Caminho no Deserto",
+     "usos": 2
+    },
+    {
+     "musica": "Deus Proverá",
      "usos": 2
     }
    ]
@@ -704,10 +647,6 @@
    "media_musicas": 3.4,
    "top5": [
     {
-     "musica": "Grande é o Senhor (Great is the Lord)",
-     "usos": 4
-    },
-    {
      "musica": "DESERTO",
      "usos": 4
     },
@@ -716,37 +655,41 @@
      "usos": 4
     },
     {
-     "musica": "Eu Me Rendo",
-     "usos": 3
+     "musica": "Grande é o Senhor (Great is the Lord)",
+     "usos": 4
     },
     {
      "musica": "Bondade de Deus",
+     "usos": 3
+    },
+    {
+     "musica": "Eu Me Rendo",
      "usos": 3
     }
    ]
   },
   "Outro": {
-   "eventos": 45,
-   "media_musicas": 6.1,
+   "eventos": 37,
+   "media_musicas": 5.5,
    "top5": [
     {
      "musica": "De Dentro Pra Fora",
-     "usos": 8
+     "usos": 6
     },
     {
      "musica": "Pai Nosso",
-     "usos": 7
+     "usos": 6
+    },
+    {
+     "musica": "Essência da Adoração",
+     "usos": 5
+    },
+    {
+     "musica": "Eu Me Rendo",
+     "usos": 5
     },
     {
      "musica": "Maravilhoso Amor",
-     "usos": 6
-    },
-    {
-     "musica": "Santo Espírito (Holy Spirit)",
-     "usos": 6
-    },
-    {
-     "musica": "Te Agradeço",
      "usos": 5
     }
    ]
@@ -760,19 +703,19 @@
      "usos": 6
     },
     {
+     "musica": "Arde Outra Vez",
+     "usos": 4
+    },
+    {
+     "musica": "Deus da Minha Vida",
+     "usos": 4
+    },
+    {
      "musica": "Estações",
      "usos": 4
     },
     {
-     "musica": "É Tudo Sobre Você",
-     "usos": 4
-    },
-    {
      "musica": "Somos Um",
-     "usos": 4
-    },
-    {
-     "musica": "Arde Outra Vez",
      "usos": 4
     }
    ]
@@ -786,19 +729,19 @@
      "usos": 3
     },
     {
-     "musica": "Não se turbe o vosso coração,",
+     "musica": "Com Muito Louvor",
      "usos": 1
     },
     {
-     "musica": "Se Paz a Mais Doce (Sou Feliz)",
+     "musica": "DESERTO",
      "usos": 1
     },
     {
-     "musica": "Mais Perto Quero Estar",
+     "musica": "Deus Proverá",
      "usos": 1
     },
     {
-     "musica": "Porque Ele Vive",
+     "musica": "Digno de Tudo",
      "usos": 1
     }
    ]
@@ -806,40 +749,40 @@
  },
  "por_mes": {
   "jan": {
-   "eventos": 34
+   "eventos": 30
   },
   "fev": {
-   "eventos": 54
+   "eventos": 47
   },
   "mar": {
-   "eventos": 43
+   "eventos": 39
   },
   "abr": {
-   "eventos": 48
+   "eventos": 43
   },
   "mai": {
-   "eventos": 48
+   "eventos": 39
   },
   "jun": {
-   "eventos": 58
+   "eventos": 54
   },
   "jul": {
-   "eventos": 48
+   "eventos": 43
   },
   "ago": {
-   "eventos": 65
+   "eventos": 61
   },
   "set": {
-   "eventos": 51
+   "eventos": 44
   },
   "out": {
-   "eventos": 58
+   "eventos": 51
   },
   "nov": {
-   "eventos": 55
+   "eventos": 49
   },
   "dez": {
-   "eventos": 43
+   "eventos": 35
   }
  },
  "biblioteca_total": 729,

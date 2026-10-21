@@ -82,7 +82,7 @@ export function SongPage() {
       <div className="mt-4 grid gap-4 lg:grid-cols-5">
         <section className="card p-4 lg:col-span-3">
           <h2 className="text-lg font-extrabold">Usos por ano</h2>
-          <p className="mt-1 text-sm text-muted">Cada ponto é um ano entre 2017 e 2026.</p>
+          <p className="mt-1 text-sm text-muted">Cada ponto é um ano entre {ANOS[0]} e {ANOS[ANOS.length - 1]}.</p>
           <div className="mt-2">
             <Sparkline values={sparkValues} labels={ANOS.map(String)} />
           </div>

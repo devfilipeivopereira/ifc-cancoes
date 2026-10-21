@@ -1,6 +1,6 @@
 # Repertório de Louvor · Igreja da Família Cristã
 
-Site público e estático sobre as músicas cantadas nos cultos da Igreja da Família Cristã (IFC) entre 2017 e 2026. O painel lê três arquivos JSON e não tem backend, banco nem segredo.
+Site público e estático sobre as músicas cantadas nos cultos da Igreja da Família Cristã (IFC) entre 2019 e 2026. O painel lê três arquivos JSON e não tem backend, banco nem segredo.
 
 O site **não exibe e não busca letras**. O botão “Ver letra” só abre um endereço externo em uma nova aba. Links ainda não conferidos aparecem com o selo **sugestão**. Quando não há página de letra, o recuo é uma busca no Google.
 
