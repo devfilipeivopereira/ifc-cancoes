@@ -316,15 +316,18 @@ body {
   }
 }
 
+details.insight > summary,
 details.event > summary {
   list-style: none;
 }
 
+details.insight > summary::-webkit-details-marker,
 details.event > summary::-webkit-details-marker {
   display: none;
 }
 
-details.event[open] .chev {
+details.event[open] .chev,
+details.insight[open] .chev {
   transform: rotate(180deg);
 }
 

@@ -64,7 +64,7 @@ Faça o deploy de novo. Os gráficos são calculados na hora a partir de `songs.
 - **Músicas** — busca, ordenação e filtros (período, artista, tipo de culto, estilo, versão estrangeira, confiança, esquecidas, usadas uma vez). Os gráficos da página seguem o filtro.
 - **Música** — ficha, linha do tempo, usos por ano e link externo da letra.
 - **Cultos** — lista e calendário, com a sequência de músicas de cada encontro.
-- **Insights** — leitura em frases: mais cantadas, rotação, esquecidas, estreias e calendário.
+- **Insights** — planejamento para o ministério de louvor. Saúde do repertório, rotação, esquecidas, estreias, culto típico, pares, sazonalidade e diversidade. Os números são recalculados a partir de `songs.json`, `events.json` e da data `gerado_em`.
 
 O selo **dados aproximados** aparece quando `confianca` é `baixa` ou `artista_divergente` é `sim`.
 
